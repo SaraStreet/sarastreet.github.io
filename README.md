@@ -2,4 +2,4 @@
 
 this page is a practice for cs155 and using git! 
 
-This page is hosted at : hptts://sarastreet.github.io
+This page is hosted at : hptts://sarastreet.github.io/
